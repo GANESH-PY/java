@@ -1,8 +1,8 @@
 public class demo {
     public static void main(String args[]){
 
-        a=10;
-        System.out.println("New Line");
+        int a = 10;
+        System.out.println("New Line"+a);
         System.out.println("Hello World!");
     }
 }
